@@ -8,3 +8,4 @@ Team memebers:
 - Aleksandr Rozhnov
 - Anton Zhevnerchuk
 
+There are three modules, each of them containes a documented implementation of one of the matrix-completion algorithms. Jupyter Notebook with the demonstration of their performances is represented as well. For more detailes see presentation and report.
